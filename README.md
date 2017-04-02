@@ -3,7 +3,7 @@ Separating spectral components for high energy astronomy
 
 The animation belows shows energy slices of a data cube (RA,DEC,E) generated from several deep observations of the CasA SNR as seen by the Chandra X-ray telescope:
 
-![](CasA_anim.gif)
+![](CasA_movie.gif)
 
 
 The X-ray emission is composed of several components like bremsstrahlung (from the hot gas), synchrotron emission (from particles accelerated at the shock) and a population of emission lines from Si, Mg, Ar, Fe, etc.
