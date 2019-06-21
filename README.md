@@ -1,7 +1,7 @@
 # BHESS
 Separating spectral components for high energy astronomy.
 
-The resubmitted version of the methodology paper can be found here: [here](A_novel_method_for_component_separation_of_extended_sources_in_X_ray_astronomy_A%26Aresubmitted.pdf)
+The accepted version of the methodology paper can be found on arxiv here: [here](https://arxiv.org/abs/1905.10175)
 
 The animation belows shows energy slices of a data cube (RA,DEC,E) generated from several deep observations of the CasA SNR as seen by the Chandra X-ray telescope:
 
